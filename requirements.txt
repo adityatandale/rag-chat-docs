@@ -1,0 +1,9 @@
+streamlit>=1.40
+chromadb>=1.0
+fastembed>=0.4
+pypdf>=5.0
+python-docx>=1.1
+openai>=1.50
+python-dotenv>=1.0
+numpy
+pytest>=8.0
